@@ -52,4 +52,5 @@ Mkfile.old
 dkms.conf
 
 #AOC speciale
-.txt
+*.txt
+test.c
